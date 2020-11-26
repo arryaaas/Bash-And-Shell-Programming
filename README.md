@@ -15,3 +15,7 @@ Video penjelasan tentang Bash & Shell Scripting dan Demo Programnya dapat diliha
 ## Lisensi 
 
 Didistribusikan di bawah Lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanjut.
+
+## Kontak
+
+Mochammad Arya Salsabila - Aryasalsabila789@gmail.com
