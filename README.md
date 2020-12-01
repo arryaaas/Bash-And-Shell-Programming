@@ -8,6 +8,11 @@
 Bash merupakan penerjemah perintah yang berjalan pada konsol/command line intrepeter di mana si pengguna dapat memberi perintah(command(s)) yang dapat mengakibatkan sesuatu dalam sebuah sistem operasi berubah. Bash juga dapat membaca perintah dari berkas yang disebut skrip. Soal penamaan, Bash adalah singkatan dari Bourne Again Shell. Bash merupakan versi baru dari Bourne Shell yang dikembangkan oleh Steve Bourne. Pemrograman Bash-Shell itu sendiri adalah pengeksekusian kumpulan perintah menggunakan skrip yang ditulis ke dalam bahasa Shell, sehingga dapat dieksekusi oleh sistem operasi. Pada Linux sendiri, penggunaan Bash ini dijalankan melalui Terminal. 
 </p>
 
+## Pengembang Proyek
+- Nama : Mochammad Arya Salsabila
+- Npm : 19081010001
+- Kelas : Sistem Operasi (D)
+
 ## Video Penjelasan 
 
 Video penjelasan dan Demo Program tentang :
