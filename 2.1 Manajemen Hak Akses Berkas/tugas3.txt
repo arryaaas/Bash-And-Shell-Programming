@@ -1,25 +1,23 @@
-# Buat file test.txt
-# nano test.txt
+1. Buat file test.txt
+   nano test.txt
 
-# Cek hak akses berkas
-# ls -l
+2. Cek hak akses berkas
+   ls -l
 
-# Membuat user baru
-# sudo adduser nama_user
+3. Membuat user baru
+   sudo adduser nama_user
 
-# Cek user yang telah dibuat
-# cd ..
-# ls
+4. Cek user yang telah dibuat
+   cd ..
+   ls
 
-# Login ke user yang baru dibuat
-# sudo login nama_user
+5. Login ke user yang baru dibuat
+   sudo login nama_user
 
-# Buka file test.txt yang dibuat sebelumnya
-# cd ..
-# cd nama_user
-# nano test.txt
+6. Buka file test.txt yang dibuat sebelumnya
+   cd ..
+   cd nama_user
+   nano test.txt
 
-# Mencoba read dan write file test.txt 
-# Akan terjadi error karena user ke-2 hanya
-# Bisa read saja dan tidak bisa melakukan
-# write file test.txt
+7. Mencoba read dan write file test.txt akan terjadi error karena user ke-2 hanya
+   bisa read saja dan tidak bisa melakukan write file test.txt
