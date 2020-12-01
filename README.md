@@ -79,7 +79,7 @@ Video penjelasan dan Demo Program tentang :
 - [Instalasi Linux Ubuntu di Virtual Box](https://youtu.be/NHL4RHHab0Q)
 - Bash & Shell Programming 1 : 
     - [Mochammad Arya Salsabila](https://youtu.be/kepM0lFHw_o)
-    - [Muhammad Lutfi Pratama]()
+    - [Muhammad Lutfi Pratama](https://www.youtube.com/watch?v=GGjVAYhSqPU)
 - Manajemen Hak Akses Berkas & Shell Programming 2 soon...
 - Deadlock & Shell Programming 3 soon...
 - Multiprocessing & Shell Programming 4 soon...
@@ -92,3 +92,4 @@ Didistribusikan di bawah Lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanj
 ## Kontak
 
 Mochammad Arya Salsabila - Aryasalsabila789@gmail.com
+Muhammad Lutfi Pratama - pratamalutfi60@gmail.com
