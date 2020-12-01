@@ -76,7 +76,9 @@ Bash dan Shell Programming :
 
 Video penjelasan dan Demo Program tentang :
 - [Instalasi Linux Ubuntu di Virtual Box](https://youtu.be/NHL4RHHab0Q)
-- [Bash & Shell Programming 1](https://youtu.be/kepM0lFHw_o)
+- Bash & Shell Programming 1 : 
+    - [Mochammad Arya Salsabila](https://youtu.be/kepM0lFHw_o)
+    - [Muhammad Lutfi Pratama]()
 - Manajemen Hak Akses Berkas & Shell Programming 2 soon...
 - Deadlock & Shell Programming 3 soon...
 - Multiprocessing & Shell Programming 4 soon...
