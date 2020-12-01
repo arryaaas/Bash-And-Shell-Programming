@@ -10,7 +10,10 @@ Bash merupakan penerjemah perintah yang berjalan pada konsol/command line intrep
 
 ## Video Penjelasan 
 
-Video penjelasan tentang Bash & Shell Scripting dan Demo Programnya dapat dilihat [disini](https://youtu.be/kepM0lFHw_o).
+Video penjelasan dan Demo Program tentang :
+- `Instalasi Linux Ubuntu di Virtual Box` dapat dilihat [disini](https://youtu.be/NHL4RHHab0Q).
+- `1.1 Bash` & `1.2 Shell Programming 1` dapat dilihat [disini](https://youtu.be/kepM0lFHw_o).
+- `2.1 Manajemen Hak Akses Berkas` & `2.2 Shell Programming 2` soon..
 
 ## Lisensi 
 
