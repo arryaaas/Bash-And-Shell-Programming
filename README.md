@@ -1,4 +1,4 @@
-# Bash-And-Shell-Scripting
+# Bash-And-Shell-Programming
 
 <p align="center">
   <img width="360px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1200px-Gnu-bash-logo.svg.png" />
