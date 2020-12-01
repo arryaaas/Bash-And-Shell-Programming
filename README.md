@@ -62,6 +62,7 @@ Bash dan Shell Programming :
     - Muhammad Lutfi Pratama (19081010049)
 2. Bash & Shell Programming 1 :
     - Mochammad Arya Salsabila (19081010001)
+    - Muhammad Lutfi Pratama (19081010049)
 3. Manajemen Hak Akses Berkas & Shell Programming 2 :
     - soon...
 4. Deadlock & Shell Programming 3 :
