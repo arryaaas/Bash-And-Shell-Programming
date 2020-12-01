@@ -1,1 +1,0 @@
-echo -e "Halo dunia!\nIni adalah skrip Bash pertamaku di linux!\n"
