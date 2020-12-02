@@ -1,4 +1,4 @@
-# Bash-And-Shell-Programming
+# :computer: Bash-And-Shell-Programming
 
 Praktikum dan Final Project Sistem Operasi 
 
@@ -56,24 +56,12 @@ Bash dan Shell Programming :
 </table>
     
 
-## Pengembang Proyek
-1. Instalasi Linux Ubuntu di Virtual Box :
-    - Mochammad Arya Salsabila (19081010001)
-    - Muhammad Lutfi Pratama (19081010049)
-2. Bash & Shell Programming 1 :
-    - Mochammad Arya Salsabila (19081010001)
-    - Muhammad Lutfi Pratama (19081010049)
-3. Manajemen Hak Akses Berkas & Shell Programming 2 :
-    - soon...
-4. Deadlock & Shell Programming 3 :
-    - soon...
-5. Multiprocessing & Shell Programming 4 :
-    - soon...
-6. Final Project :
-    - Mochammad Arya Salsabila (19081010001)
-    - Muhammad Lutfi Pratama (19081010049)
+## :wink: Pengembang Proyek
 
-## Video Penjelasan 
+:boy: Mochammad Arya Salsabila (19081010001) <br>
+:boy: Muhammad Lutfi Pratama (19081010049)
+
+## :movie_camera: Video Penjelasan 
 
 Video penjelasan dan Demo Program tentang :
 - [Instalasi Linux Ubuntu di Virtual Box](https://youtu.be/NHL4RHHab0Q)
@@ -85,11 +73,11 @@ Video penjelasan dan Demo Program tentang :
 - Multiprocessing & Shell Programming 4 soon...
 - Final Project soon...
 
-## Lisensi 
+## :paperclip: Lisensi 
 
 Didistribusikan di bawah Lisensi MIT. Lihat `LICENSE` untuk informasi lebih lanjut.
 
-## Kontak
+## :email: Kontak
 
 - Mochammad Arya Salsabila - Aryasalsabila789@gmail.com
 - Muhammad Lutfi Pratama - pratamalutfi60@gmail.com
