@@ -35,10 +35,7 @@ Bash dan Shell Programming :
       <td>Shell Programming 2</td>
     </tr>
     <tr>
-      <td rowspan=2>8 Desember 2020</td>
-      <td>Deadlock</td>
-    </tr>
-    <tr>
+      <td>8 Desember 2020</td>
       <td>Shell Programming 3</td>
     </tr>
     <tr>
@@ -58,8 +55,20 @@ Bash dan Shell Programming :
 
 ## :wink: Pengembang Proyek
 
-:boy: Mochammad Arya Salsabila (19081010001) <br>
-:boy: Muhammad Lutfi Pratama (19081010049)
+- Instalasi Linux Ubuntu di Virtual Box <br>
+  :boy: Mochammad Arya Salsabila (19081010001) <br>
+  :boy: Muhammad Lutfi Pratama (19081010049)
+- Bash & Shell Programming 1 <br>
+  :boy: Mochammad Arya Salsabila (19081010001) <br>
+  :boy: Muhammad Lutfi Pratama (19081010049)
+- Manajemen Hak Akses Berkas & Shell Programming 2 <br>
+  :boy: Mochammad Arya Salsabila (19081010001) <br>
+  :boy: Muhammad Lutfi Pratama (19081010049)
+- Shell Programming 3 <br>
+  :boy: Mochammad Arya Salsabila (19081010001) <br>
+- Multiprocessing & Shell Programming 4 soon...
+- Final Project soon...
+
 
 ## :movie_camera: Video Penjelasan 
 
@@ -69,7 +78,8 @@ Video penjelasan dan Demo Program tentang :
     - [Mochammad Arya Salsabila](https://youtu.be/kepM0lFHw_o)
     - [Muhammad Lutfi Pratama](https://www.youtube.com/watch?v=GGjVAYhSqPU)
 - [Manajemen Hak Akses Berkas & Shell Programming 2](https://youtu.be/rTqdfdosW4M)
-- Deadlock & Shell Programming 3 soon...
+- Shell Programming 3 :
+  - [Mochammad Arya Salsabila](https://youtu.be/_empePVBHFo)
 - Multiprocessing & Shell Programming 4 soon...
 - Final Project soon...
 
