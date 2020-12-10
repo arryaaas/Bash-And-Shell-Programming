@@ -8,8 +8,13 @@ Buatlah program perulangan yang menerapkan beberapa konsep pemrograman bash sepe
 
 Contoh Output :
 ```
-Input : 5
+Input : 15
 
+15
+13
+11
+9
+7
 5
 3
 1
