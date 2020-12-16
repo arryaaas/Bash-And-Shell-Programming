@@ -32,18 +32,15 @@ Bash dan Shell Programming :
       <td>Manipulasi Hak Akses Berkas</td>
     </tr>
     <tr>
-      <td>Shell Programming 2</td>
+      <td>Shell Programming 2 - Loop</td>
     </tr>
     <tr>
       <td>8 Desember 2020</td>
-      <td>Shell Programming 3</td>
+      <td>Shell Programming 3 - Array</td>
     </tr>
     <tr>
-      <td rowspan=2>15 Desember 2020</td>
-      <td>Multiprocessing</td>
-    </tr>
-    <tr>
-      <td>Shell Programming 4</td>
+      <td>15 Desember 2020</td>
+      <td>Shell Programming 4 - Function</td>
     </tr>
     <tr>
       <td>22 Desember 2020</td>
@@ -66,8 +63,13 @@ Bash dan Shell Programming :
   :boy: Muhammad Lutfi Pratama (19081010049)
 - Shell Programming 3 <br>
   :boy: Mochammad Arya Salsabila (19081010001) <br>
-- Multiprocessing & Shell Programming 4 soon...
-- Final Project soon...
+  :boy: Muhammad Lutfi Pratama (19081010049) soon..
+- Shell Programming 4 <br>
+  :boy: Mochammad Arya Salsabila (19081010001) <br>
+  :boy: Muhammad Lutfi Pratama (19081010049) soon..
+- Final Project <br>
+  :boy: Mochammad Arya Salsabila (19081010001) <br>
+  :boy: Muhammad Lutfi Pratama (19081010049)
 
 
 ## :movie_camera: Video Penjelasan 
@@ -80,7 +82,10 @@ Video penjelasan dan Demo Program tentang :
 - [Manajemen Hak Akses Berkas & Shell Programming 2](https://youtu.be/rTqdfdosW4M)
 - Shell Programming 3 :
   - [Mochammad Arya Salsabila](https://youtu.be/_empePVBHFo)
-- Multiprocessing & Shell Programming 4 soon...
+  - Muhammad Lutfi Pratama soon..
+- Shell Programming 4 :
+  - [Mochammad Arya Salsabila](https://youtu.be/tIyi_wLExX0)
+  - Muhammad Lutfi Pratama soon..
 - Final Project soon...
 
 ## :paperclip: Lisensi 
