@@ -14,7 +14,7 @@ digunakan ialah kode barang, nama barang, dan harga barang. Program ini tidak ha
 membaca semua data yang ada tetapi juga bisa membaca suatu data tertentu. Selain operasi
 CRUD program ini juga menerapkan beberapa perintah bash seperti menyisipkan suatu teks ke
 dalam file berekstensi .txt, membuat folder, dan mengecek apakah suatu file dan folder sudah
-ada atau belum.
+ada atau belum. Source code bisa dilihat [disini](https://github.com/arryaaas/Bash-And-Shell-Programming/blob/master/Final%20Project/main.sh).
 
 
 ## :wink: Pengembang Proyek
