@@ -86,7 +86,7 @@ Video penjelasan dan Demo Program tentang :
 - Shell Programming 4 :
   - [Mochammad Arya Salsabila](https://youtu.be/tIyi_wLExX0)
   - Muhammad Lutfi Pratama soon..
-- Final Project soon...
+- [Final Project](https://youtu.be/qmFwoyNlugc)
 
 ## :paperclip: Lisensi 
 
