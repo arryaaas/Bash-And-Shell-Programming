@@ -1,4 +1,4 @@
-# Final Project
+# Final Project - Merchant Management System
 
 Studi Kasus : Merchant Management System
 
@@ -16,6 +16,12 @@ CRUD program ini juga menerapkan beberapa perintah bash seperti menyisipkan suat
 dalam file berekstensi .txt, membuat folder, dan mengecek apakah suatu file dan folder sudah
 ada atau belum.
 
-Nama Anggota :
+
+## :wink: Pengembang Proyek
+
 - :boy: Mochammad Arya Salsabila (19081010001)
 - :boy: Muhammad Lutfi Pratama (19081010049)
+
+## :movie_camera: Video Penjelasan 
+
+Video penjelasan tentang coding dan demo program final project dapat dilihat [disini](https://youtu.be/qmFwoyNlugc).
