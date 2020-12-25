@@ -174,7 +174,7 @@ function menu() {
     echo ""
     echo "=============================="
     echo "| Merchant Management System |"
-    echo "|   $date    |"
+    echo "|   $date      |"
     echo "=============================="
     echo "| Menu :                     |"
     echo "| 1. Tambah Barang           |"
