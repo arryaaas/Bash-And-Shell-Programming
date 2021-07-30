@@ -52,24 +52,8 @@ Bash dan Shell Programming :
 
 ## :wink: Pengembang Proyek
 
-- Instalasi Linux Ubuntu di Virtual Box <br>
-  :boy: Mochammad Arya Salsabila (19081010001) <br>
-  :boy: Muhammad Lutfi Pratama (19081010049)
-- Bash & Shell Programming 1 <br>
-  :boy: Mochammad Arya Salsabila (19081010001) <br>
-  :boy: Muhammad Lutfi Pratama (19081010049)
-- Manajemen Hak Akses Berkas & Shell Programming 2 <br>
-  :boy: Mochammad Arya Salsabila (19081010001) <br>
-  :boy: Muhammad Lutfi Pratama (19081010049)
-- Shell Programming 3 <br>
-  :boy: Mochammad Arya Salsabila (19081010001) <br>
-  :boy: Muhammad Lutfi Pratama (19081010049) soon..
-- Shell Programming 4 <br>
-  :boy: Mochammad Arya Salsabila (19081010001) <br>
-  :boy: Muhammad Lutfi Pratama (19081010049) soon..
-- Final Project <br>
-  :boy: Mochammad Arya Salsabila (19081010001) <br>
-  :boy: Muhammad Lutfi Pratama (19081010049)
+:boy: Mochammad Arya Salsabila (19081010001) <br>
+:boy: Muhammad Lutfi Pratama (19081010049)
 
 
 ## :movie_camera: Video Penjelasan 
@@ -82,10 +66,8 @@ Video penjelasan dan Demo Program tentang :
 - [Manajemen Hak Akses Berkas & Shell Programming 2](https://youtu.be/rTqdfdosW4M)
 - Shell Programming 3 :
   - [Mochammad Arya Salsabila](https://youtu.be/_empePVBHFo)
-  - Muhammad Lutfi Pratama soon..
 - Shell Programming 4 :
   - [Mochammad Arya Salsabila](https://youtu.be/tIyi_wLExX0)
-  - Muhammad Lutfi Pratama soon..
 - [Final Project](https://youtu.be/qmFwoyNlugc)
 
 ## :paperclip: Lisensi 
